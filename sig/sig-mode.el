@@ -1,0 +1,1 @@
+;;; sinmple pgp signature mode
